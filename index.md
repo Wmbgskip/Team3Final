@@ -260,7 +260,7 @@ pre code {
 <h3>Summary &amp; Background</h3>
 <div id="summary" class="section level4">
 <h4>Summary</h4>
-<p>The goal of this project is to try to predict if Kobe Bryant would make a shot based on different variables. The data set contains descriptor information on all of the shots Kobe Bryant took throughout his career. The 26 different variables in the original dataset include:</p>
+<p>The goal of this project is to try to predict if Kobe Bryant would make a shot based on different variables. The data set contains descriptor information on all of the shots Kobe Bryant took throughout his career. The 26 different variables in the original dataset <a href="https://www.kaggle.com/c/kobe-bryant-shot-selection/overview">Kobe Bryant Shot Selection</a> include:</p>
 <ul>
 <li>Action_type (i.e. dunk, shot, alley oop)</li>
 <li>combined shot type (i.e. bank shot , dunk)</li>
